@@ -40,17 +40,15 @@ Each chapter is a service. Each service has a few flags in them. Find them all.
 
 ## Getting Started
 
-> You'll need a terminal and a bit of curiosity. That's it.
-
 Each chapter lives in `/chapters/` and shows you the construction of each service. No copyrights on this lab, if you want to try it out at home, you are more than welcome :) 
-
 
 
 ---
 
 ## Authors
+David Tekin (MysteriousGuardian)
 
-<!-- Your turn — say what you want here -->
+
 
 ---
 
