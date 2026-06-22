@@ -52,4 +52,4 @@ David Tekin (MysteriousGuardian)
 
 ---
 
-<p align="center"><sub>Built for educational purposes · University of Borås · 2025</sub></p>
+<p align="center"><sub>Built for educational purposes · University of Borås · 2026</sub></p>
