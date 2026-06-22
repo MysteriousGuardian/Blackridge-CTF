@@ -3,21 +3,21 @@
 </p>
 
 <h1 align="center">Blackridge CTF</h1>
-<p align="center"><i>A beginner-friendly Capture the Flag lab — built at University of Borås</i></p>
+<p align="center"><i>A beginner-friendly Capture the Flag lab</i></p>
 
 ---
 
 ## The Story
 
-Blackridge Oil Company is a mid-sized energy firm with a decent website, a file server, and an IT department held together by one overworked IT chef named **Anna Lindqvist**.
+Blackridge Oil Company is a mid-sized oil company with different types of services, such as a website and a file server. The company has hired an IT team that is controlled by the IT Manager "Anna Lindqvist".
 
-Anna is good at her job. Mostly. But like a lot of people managing too many systems at once, she's cut a few corners — left a share open here, reused a password there, trusted that nobody would go looking.
+Anna is pretty good at her job. But she has been acting quite odd recently. She leaves gaps of Blackridge open to the public without any precautions, using the same password EVERYWHERE and even blaming it on others. 
 
-Someone is going to go looking. That someone is you.
+It's time to find out what causes Anna to be acting disrupted.
 
 Your job is to work your way through Blackridge's internal systems — from the public-facing website all the way down to the file shares sitting quietly on the network. Every step teaches you something real. Every service hands you the key to the next one.
 
-You're not here to break anything. You're here to find out what was already broken.
+You're not here to cause even more havoc. You are here to solve a mystery.
 
 ---
 
@@ -27,15 +27,14 @@ You're not here to break anything. You're here to find out what was already brok
 HTTP  →  FTP  →  SSH  →  SMB
 ```
 
-Each chapter is a service. Each service has a flag. Find them all.
+Each chapter is a service. Each service has a few flags in them. Find them all.
 
 | Chapter | Service | Description |
 |---|---|---|
-| 01 | HTTP | The company website is hiding something in plain sight |
-| 02 | FTP | The file server has folders that probably shouldn't be public |
-| 03 | SSH | Getting a shell is one thing. Getting the *right* shell is another |
-| 04 | SMB | Anna's share is open. Anna doesn't know you know that |
-| Bonus | Wireshark | An old pcap file. An email thread. A name you've seen before |
+| 01 | HTTP | Blackridge Website |
+| 02 | FTP | Blackridge File Server |
+| 03 | SSH | IT Departments Secure Shell Access |
+| 04 | SMB | Anna's share |
 
 ---
 
@@ -43,9 +42,9 @@ Each chapter is a service. Each service has a flag. Find them all.
 
 > You'll need a terminal and a bit of curiosity. That's it.
 
-Each chapter lives in `/chapters/` and walks you through the challenge step by step — commands included, hints embedded, no prior experience required.
+Each chapter lives in `/chapters/` and shows you the construction of each service. No copyrights on this lab, if you want to try it out at home, you are more than welcome :) 
 
-Start here → [`chapters/http.md`](chapters/http.md)
+
 
 ---
 
