@@ -9,15 +9,13 @@
 
 ## The Story
 
-Blackridge Oil Company is a mid-sized oil company with different types of services, such as a website and a file server. The company has hired an IT team that is controlled by the IT Manager "Anna Lindqvist".
+Blackridge Oil Company looks fine from the outside. Website's up, servers are running, nothing seems wrong.
 
-Anna is pretty good at her job. But she has been acting quite odd recently. She leaves gaps of Blackridge open to the public without any precautions, using the same password EVERYWHERE and even blaming it on others. 
+But Anna, the IT Manager, has been acting strange lately. The person who's supposed to keep everything locked down has been doing the opposite — same password on everything, folders left open, and whenever someone brings it up she deflects or points fingers.
 
-It's time to find out what causes Anna to be acting disrupted.
+Something's going on. Your job is to find out what.
 
-Your job is to work your way through Blackridge's internal systems — from the public-facing website all the way down to the file shares sitting quietly on the network. Every step teaches you something real. Every service hands you the key to the next one.
-
-You're not here to cause even more havoc. You are here to solve a mystery.
+You'll start from the website and work your way in. Every service you get through hands you something for the next one. It all leads back to Anna.
 
 ---
 
@@ -33,7 +31,7 @@ Each chapter is a service. Each service has a few flags in them. Find them all.
 |---|---|---|
 | 01 | HTTP | Blackridge Website |
 | 02 | FTP | Blackridge File Server |
-| 03 | SSH | IT Departments Secure Shell Access |
+| 03 | SSH |  IT Department Access |
 | 04 | SMB | Anna's share |
 
 ---
