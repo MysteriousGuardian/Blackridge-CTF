@@ -7,4 +7,10 @@ Dig through what's here. If you find other stuff she's let slip — bad planning
 
 Find the evidence. Make it stick.
 
-# Construction of Anna's SMB
+# Construction of Anna's SMB (First Version)
+Time to whip out the last Debian VM of the CTF. The plan is to recreate a desktop interface that has a lot of dummy files and a folder called Recycling Bin. These dummy files would contain mixed stuff, such as VLAN configuration on Blackridge, salaries for employees and even mails. This interface would be created in folder that would be shared using the SMB service Samba.
+
+*Insert image*
+
+First things first, basic configurations on the VM. After that, it was time to install the service:
+
