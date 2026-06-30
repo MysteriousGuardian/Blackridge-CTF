@@ -14,3 +14,9 @@ Time to whip out the last Debian VM of the CTF. The plan is to recreate a deskto
 
 First things first, basic configurations on the VM. After that, it was time to install the service:
 
+`sudo apt install -y samba`
+
+Then we added "anna" as a Linux user:
+
+`sudo adduser anna`
+
