@@ -44,7 +44,7 @@ After adding the block, I've restarted samba:
 
 `sudo systemctl restart smbd`
 
-Then it was time for testing. I tried to access it from my host machine and I did come across an error, however I instantly knew what the error were. During the SMB configuration, I've specified a user called "blr_anna" as in Blackridge Anna, but I've created a user called "anna". Names don't match and rejects my SMB connections. It was an easy fix, just change the SMB configuration to the correct user and I was all set.
+Then it was time for testing. I tried to access it from my host machine and I did come across an error about denied access, however I instantly knew what the error were. During the SMB configuration, I've specified a user called "blr_anna" as in Blackridge Anna, but I've created a user called "anna". Names don't match and rejects my SMB connections. It was an easy fix, just change the SMB configuration to the correct user and I was all set.
 
 By using this path:
 \\(SMB's IP-Address)\anna
@@ -52,4 +52,4 @@ By using this path:
 I was prompted to a login box:
 *Insert image of login box*
 
-B
+By writing 
