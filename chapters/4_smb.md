@@ -55,4 +55,4 @@ I was prompted to a login box:
 By using Anna's login details, we've gotten access to the share:
 *Insert image of the share*
 
-Now that we have verified that only Anna can access the share (tried with another account, did not work), it's time to add the dummy files.
+Now that we have verified that only Anna can access the share (tried with another account, did not work), it's time to add the dummy files. To make this share realistic, I would need to put in a bit of junk files that represent company information.
