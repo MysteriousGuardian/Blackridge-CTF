@@ -61,6 +61,8 @@ Now that we have verified that only Anna can access the share (tried with anothe
 
 <img src=/images/smb4.png>
 
-I decided to put two flags in this machine. One would be inside the mail to Redridge and the second one would be a fake salary sheet for the impostor David.
+I decided to put two flags in this machine. One would be inside the mail to Redridge and the second one would be a fake salary sheet for the impostor David. After that, I would say that the SMB is complete. Nothing too fancy as said, but a fun service to try out.
+
+Current version: v1.0
 
 
