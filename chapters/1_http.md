@@ -1,1 +1,2 @@
-work in progress
+# Story Chapter 1: Introduction
+
