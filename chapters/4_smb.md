@@ -1,5 +1,5 @@
 # Story Chapter 4: The Finale
-You've made it to the last stop: Anna's private share.
+You've made it to the last stop: Anna's work share.
 
 Her supervisor's got her in a room right now asking questions, and from what's on this share, it's looking worse for her by the minute. Somewhere in here is the evidence that actually pins this down — proof of what she's been hiding, not just careless mistakes.
 
@@ -50,10 +50,12 @@ By using this path:
 `\\(SMB's IP-Address)\anna`
 
 I was prompted to a login box:
-*Insert image of login box*
+
+<img src=/images/smb2.png>
 
 By using Anna's login details, we've gotten access to the share:
-*Insert image of the share*
+
+<img src=/images/smb3.png>
 
 Now that we have verified that only Anna can access the share (tried with another account, did not work), it's time to add the dummy files. To make this share realistic, I would need to put in a bit of junk files that represent company information. Nothing too advanced, just a few files that gives the share a bit more purpose. After a few hours of manually writing the files (I could not be bothered to automate this step), the share looks like this:
 
