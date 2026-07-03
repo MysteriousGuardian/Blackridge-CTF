@@ -25,7 +25,7 @@ You'll start from the website and work your way in. Every service you get throug
 HTTP  →  FTP  →  SSH  →  SMB
 ```
 
-Each chapter is a service. Each service has a few flags in them. Find them all.
+Each chapter is a service. Each service has flags in them. Find them all.
 
 | Chapter | Service | Description |
 |---|---|---|
