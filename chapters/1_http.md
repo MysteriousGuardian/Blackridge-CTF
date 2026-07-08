@@ -6,4 +6,4 @@ HTTP is split across two separate machines:
  - One machine takes care of the main website.
  - One machine takes care of the staff portal.
 
-Both machines were set up with basic configuration (correct hostname, password, updates) and apache installation. To install apache on a Linux 
+We started off by creating and installing two VMs with Debian, a Linux distribution. Both machines were set up with basic configuration (correct hostname, password, updates) and apache installation. To install apache on a Linux 
