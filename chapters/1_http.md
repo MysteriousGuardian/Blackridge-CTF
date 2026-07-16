@@ -25,3 +25,5 @@ No configuration was needed. I only needed to transfer the folder that contains 
 
 
 Some things that I wanted to teach the students are basic security measures, such as not pressing random links, keeping passwords secure & not exposed, as well as ways to mitigate these errors. 
+
+Current version: v1.0
