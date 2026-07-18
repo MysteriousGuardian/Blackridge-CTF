@@ -18,9 +18,11 @@ The only thing that I did on the HTTP machines was a simple apache2 installation
 No configuration was needed. I only needed to transfer the folder that contains the main & staff site to their corresponding machine at /var/www/html/. It was as simple as that.
 
 (*Insert image for site one*)
+<img src="/images/http2.png">
 (Blackridge main site)
 
 (*Insert image for site two*)
+<img src="/images/http5.png">
 (Blackridge staff site)
 
 
