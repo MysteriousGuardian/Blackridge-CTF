@@ -16,15 +16,20 @@ The only thing that I did on the HTTP machines was a simple apache2 installation
 ```sudo apt install apache2```
 
 No configuration was needed. I only needed to transfer the folder that contains the main & staff site to their corresponding machine at /var/www/html/. It was as simple as that.
-
-(*Insert image for site one*)
+<img src="/images/http1.png">
 <img src="/images/http2.png">
+<img src="/images/http3.png">
 (Blackridge main site)
 
-(*Insert image for site two*)
+<br>
+
+<img src="/images/http4.png">
 <img src="/images/http5.png">
+<img src="/images/http6.png">
 (Blackridge staff site)
 
+<br>
+<br>
 
 Some things that I wanted to teach the students are basic security measures, such as not pressing random links, keeping passwords secure & not exposed, as well as ways to mitigate these errors. 
 
