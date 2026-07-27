@@ -50,6 +50,7 @@ Melisia Younan
 
 
 
----
 
-<p align="center"><sub>Built for educational purposes · University of Borås · 2026</sub></p>
+---
+## Contributors
+Oscar Lisnell
