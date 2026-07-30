@@ -28,7 +28,7 @@ Since it worked, it is time to add content to all account types. I will be treat
 
 To obtain the login details for blr_admin account and proceed to Chapter 3, you will need to find the login details on the staff website. 
 
-Anyways, this is how the anonymous folder looks like: 
+Anyways, this is how the anonymous folder looks like: <br>
 <img src=/images/ftp4.png>
 
 And this is how the blr_admin folder looks like (note: these are folders, the text files are inside the folders):
