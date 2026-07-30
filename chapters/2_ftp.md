@@ -8,3 +8,4 @@ The service that was used on the FTP part is called vsftpd. Installation process
 ```sudo apt install vsftpd```
 
 It didn't take long until we were ready to configure the service. By editing vsftpd.conf as a user with root permissions, we can see that there is a guide that lets us uncomment certain rows to activate the setting as shown below.
+<img src=/images/ftp1.png>
