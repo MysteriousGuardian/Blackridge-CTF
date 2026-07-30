@@ -24,3 +24,12 @@ After the configuration part, I decided to test out all the accounts to see if t
 
 <img src=/images/ftp3.png>
 
+Since it worked, it is time to add content to all account types. I will be treating the anonymous account as a public account, meaning that I will be adding public reports, FAQ and stuff that you can find on regular FTP servers. On the blr_admin account, I will be adding more confidential information that should not be disclosed. Contracts, personal information, financial reports and stuff like that will be hidden to the public. But don't worry, there are flags in both anonymous account and the blr_admin account, to allow the players to learn the difference between both account types. 
+
+To obtain the login details for blr_admin account and proceed to Chapter 3, you will need to find the login details on the staff website. 
+
+Anyways, this is how the anonymous folder looks like: 
+<img src=/images/ftp4.png>
+
+And this is how the blr_admin folder looks like (note: these are folders, the text files are inside the folders):
+<img src=/images/ftp5.png>
