@@ -20,7 +20,7 @@ As we all know, the odds of stuff the first time is very low. I did go through o
 
 Something to note, I don't intend to make these machines with perfect craftmanship. As long as it works as I intend, I am more than happy to conclude the part.
 
-After the configuration part, I decided to test out all the accounts to see if they work as I intended. It passed with flying colors. :)
+After the configuration part, I decided to test out all the accounts to see if they work as I intended. It passed with flying colors (oh yeah, I added a special banner too). :)
 
 <img src=/images/ftp3.png>
 
