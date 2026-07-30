@@ -7,5 +7,7 @@ FTP runs on it's own dedicated machine. It has it's own reasoning that is very s
 The service that was used on the FTP part is called vsftpd. Installation process was easy as well, since we only needed to write this on the terminal:
 ```sudo apt install vsftpd```
 
-It didn't take long until we were ready to configure the service. By editing vsftpd.conf as a user with root permissions, we can see that there is a guide that lets us uncomment certain rows to activate the setting as shown below.
+It didn't take long until we were ready to configure the service. By editing vsftpd.conf as a user with root permissions, we can see that there is a guide that lets us uncomment certain rows to activate the setting as shown below:
 <img src=/images/ftp1.png>
+
+The configuration that I've decided to use, might not look really professional, but it is modified so that I can ensure that everything works as it should. Here it is:
