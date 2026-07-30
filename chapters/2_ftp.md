@@ -33,3 +33,5 @@ Anyways, this is how the anonymous folder looks like: <br>
 
 And this is how the blr_admin folder looks like (note: these are folders, the text files are inside the folders):
 <img src=/images/ftp5.png>
+
+Current version: v1.0
