@@ -7,7 +7,7 @@ Dig through what's here. If you find other stuff she's let slip — bad planning
 
 Find the evidence. Make it stick.
 
-# Construction of Blackridge SMB (First Version)
+# Construction of Blackridge SMB (Prototype)
 Time to whip out the last Debian VM of the CTF. The plan is to recreate a desktop interface that has a lot of dummy files and a folder called Recycling Bin. These dummy files would contain mixed stuff, such as VLAN configuration on Blackridge, salaries for employees and even mails. This interface would be created in folder that would be shared using the SMB service Samba.
 
 <img src=/images/smb1.png>
@@ -61,8 +61,8 @@ Now that we have verified that only Anna can access the share (tried with anothe
 
 <img src=/images/smb4.png>
 
-I decided to put two flags in this machine. One would be inside the mail to Redridge and the second one would be a fake salary sheet for the impostor David. After that, I would say that the SMB is complete. Nothing too fancy as said, but a fun service to try out.
+I decided to put two flags in this machine. One would be inside the mail to Redridge and the second one would be in a salary sheet. After that, I would say that the SMB is complete. Nothing too fancy as said, but a fun service to try out.
 
-Current version: v1.0
+Current version: Prototype
 
 
