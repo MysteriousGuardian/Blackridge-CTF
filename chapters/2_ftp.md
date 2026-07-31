@@ -1,7 +1,7 @@
 # Story Chapter 2: Plaintext and Pipelines
 Well, it looks like the website needs a lot of maintenance and patching. Let's hope that the FTP server is doing better. It shouldn't be as bad as the websites, right?
 
-# Construction of Blackridge FTP
+# Construction of Blackridge FTP (Prototype)
 FTP runs on it's own dedicated machine. It has it's own reasoning that is very similar to the HTTP part of this CTF. It makes the IT infrastructure more mature and realistic, which is what we try to aim. 
 
 The service that was used on the FTP part is called vsftpd. Installation process was easy as well, since we only needed to write this on the terminal:
@@ -34,4 +34,4 @@ Anyways, this is how the anonymous folder looks like: <br>
 And this is how the blr_admin folder looks like (note: these are folders, the text files are inside the folders):
 <img src=/images/ftp5.png>
 
-Current version: v1.0
+Current version: Prototype
