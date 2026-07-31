@@ -7,7 +7,7 @@ For this part, I decided to use OpenSSH as the service. To install OpenSSH, I ra
 ```sudo apt-get install openssh-server```
 
 After installing the service, I needed to edit the configuration file a bit to adapt it for approximately 80-90 students at the same time. By editing the file ```/etc/sshd_config```, I would need to change the configuration file for it's purpose.
-<img src="images/ssh1.png">
+<img src="/images/ssh1.png">
 
 To be honest, I have no idea what everything does, but I know one thing for sure. It works splendid, as I've tested it like 5 times. 
 
@@ -16,8 +16,12 @@ Then the last thing to add, was some dummy files. I wanted the SSH part of this 
 The login details for the higher tier account is in a script which the user will have to nano, cat or something similar to it.
 
 Anyways, here are the dummy files in anna's account:
-<img src="images/ssh2.png">
-<img src="images/ssh3.png">
+<br>
+<img src="/images/ssh2.png">
+<img src="/images/ssh3.png">
 
-And here is temp_ssh's home folder:
-<img src="images/ssh4.png">
+And here is temp_ssh's home folder: 
+<br>
+<img src="/images/ssh4.png">
+
+Current version: Prototype
