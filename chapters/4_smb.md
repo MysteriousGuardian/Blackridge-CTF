@@ -1,11 +1,7 @@
 # Story Chapter 4: The Finale
-You've made it to the last stop: Anna's work share.
+Well, it looks like Anna isn't the "good guy" as we suspected. She's working with Redridge, a competitor to Blackridge by trading information and secrets for simple cash.
 
-Her supervisor's got her in a room right now asking questions, and from what's on this share, it's looking worse for her by the minute. Somewhere in here is the evidence that actually pins this down — proof of what she's been hiding, not just careless mistakes.
-
-Dig through what's here. If you find other stuff she's let slip — bad planning, exposed company info, anything that shouldn't be sitting out in the open — grab that too. It all goes toward building the case against her.
-
-Find the evidence. Make it stick.
+It's time to stop it. Anna got more proof in the SMB share she linked. We can use it for more evidence. Go for it!
 
 # Construction of Blackridge SMB (Prototype)
 Time to whip out the last Debian VM of the CTF. The plan is to recreate a desktop interface that has a lot of dummy files and a folder called Recycling Bin. These dummy files would contain mixed stuff, such as VLAN configuration on Blackridge, salaries for employees and even mails. This interface would be created in folder that would be shared using the SMB service Samba.
